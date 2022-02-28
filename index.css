@@ -1,0 +1,26 @@
+h1{
+    color: rgb(206, 50, 22)
+}
+.test{
+    color:rgb(206, 50, 22)
+}
+ol{
+    color: rgb(138, 17, 17);
+    font-size: 5;
+}
+.test2{
+    text-decoration :line-through;
+}
+ul{
+    letter-spacing: 7px;
+    color: rgb(138, 17, 17);
+    font-size: 5;
+}
+p{
+    color: rgb(124, 91, 6);
+}
+#unique{
+    font-style: italic;
+    color: rgb(206, 50, 22);
+    background-color: yellow;
+}
